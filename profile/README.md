@@ -3,7 +3,7 @@
 
 <br>
 
-## 1. 프로젝트 개요 (Project Overview)
+## 프로젝트 개요 (Project Overview)
 - **프로젝트 목적:** 
 - **해결하려는 문제:** 
 - **프로젝트 목표:** 
@@ -20,16 +20,12 @@
 
 <br>
 
-## 2. 주요 기능 (Key Features)
-| 기능 | 설명 | 담당자 |
-|------|------|--------|
-| 예: 로그인 | 사용자 로그인 기능 | 홍길동 (Backend) |
-| 예: 게시글 작성 | 게시글 CRUD 기능 | 김철수 (Frontend) |
-| 예: 데이터 시각화 | 차트 표시 | 이영희 (Frontend) |
+## 주요 기능 (Key Features)
+
 
 <br>
 
-## 3. 기술 스택 (Tech Stack)
+## 기술 스택 (Tech Stack)
 - **Frontend:** React 18, Tailwind CSS
 - **Backend:** Spring Boot 3, Java 17
 - **Database:** Oracle DB
