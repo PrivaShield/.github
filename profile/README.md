@@ -1,5 +1,5 @@
-# 프로젝트 제목
-> 한 줄로 요약한 프로젝트 설명
+# PrivaShield
+> 생성형 AI의 불확실성과 사용자의 무의식적인 개인정보 공유를 방지하기 위한 서비스 플랫폼
 
 
 [프로젝트 기획서](https://drive.google.com/file/d/1pJZ_LogHsp5zi01qrFAyk8xRIsSSPLY2/view?usp=sharing)
