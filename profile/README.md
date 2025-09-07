@@ -1,7 +1,8 @@
 # 프로젝트 제목
 > 한 줄로 요약한 프로젝트 설명
-[프로젝트기획서](https://drive.google.com/file/d/1pJZ_LogHsp5zi01qrFAyk8xRIsSSPLY2/view?usp=sharing)
 
+<br>
+📖 [프로젝트기획서 다운로드](https://drive.google.com/file/d/1pJZ_LogHsp5zi01qrFAyk8xRIsSSPLY2/view?usp=sharing)
 <br>
 
 ## 프로젝트 개요 (Project Overview)
