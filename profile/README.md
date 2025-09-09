@@ -9,7 +9,7 @@
 ## 프로젝트 개요 (Project Overview)
 
 - **프로젝트 목적:**  
-  현 생성형 AI 사용 환경에서 발생할 수 있는 불확실성과 위험을 줄이고, 사용자의 무의식적인 개인정보 공유를 방지하기 위한 안전한 서비스 플랫폼 구축
+  현 생성형 AI 사용 환경에서 발생할 수 있는 불확실성과 위험을 줄이고 사용자의 무의식적인 개인정보 공유를 방지하기 위한 안전한 웹서비스 플랫폼 구축
 
 - **해결하려는 문제:**  
   1. 사용자가 AI와 상호작용할 때 의도치 않게 개인정보를 공유하는 문제  
@@ -52,11 +52,23 @@
 <br>
 
 ## 기술 스택 (Tech Stack)
-- **Frontend:** React 18, Tailwind CSS
-- **Backend:** Spring Boot 3, Java 17
-- **Database:** mySQL
-- **기타 도구:** Git
-- **협업 포인트:** 역할별 담당 기술 명시
+
+### 프론트엔드
+- 언어: JavaScript, HTML/CSS  
+- 프레임워크: React 18  
+- 스타일링: CSS Modules  
+- 배포: Netlify  
+
+### 백엔드 (API 및 서버)
+- 언어/플랫폼: Node.js (Express)  
+- 인증: JWT (JSON Web Tokens)  
+- 데이터베이스: MySQL (AWS RDS)  
+- 배포: Heroku  
+
+### 개인정보 감지 기능
+- 언어: JavaScript  
+- 기능: 실시간 텍스트 분석, 위험 단어/패턴 탐지  
+
 
 
 
