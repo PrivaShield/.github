@@ -28,9 +28,9 @@
 ## 팀원 역할 (Team Roles by Area)
 | 담당 영역 | 인원 | 주요 역할 / 책임 | 비고 |
 |-----------|------|----------------|------|
-| Frontend | 1명 | UI/UX 구현, 사용자 인터랙션 개발, API 연동 | React + java script |
-| Backend | 1명 | 서버 로직 개발, API 설계 및 구현 | node.js |
-| 데이터 & 대시보드 | 2명 | DB 설계 및 관리, 데이터 처리, 통계 분석, 대시보드 제작 | Oracle DB + 시각화 툴 담당 |
+| Frontend | 1명 | UI/UX 구현, 사용자 인터랙션 개발, API 연동 | React + JavaScript |
+| Backend | 1명 | 서버 로직 개발, API 설계 및 구현 | Node.js |
+| 데이터 & 대시보드 | 2명 | DB 설계 및 관리, 데이터 처리, 통계 분석, 대시보드 제작 |  MySQL + 시각화 툴 담당 |
 
 <br>
 
